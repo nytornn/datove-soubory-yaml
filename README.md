@@ -7,6 +7,6 @@
 - žánr můžete zapsat do **genre** 
 - > *genre: "Thriller"*
 - pro rok vydání slouží **year**
-- > *year: 2021*
+- > *year: "2021"*
 - poslední v databázi je **country**, která slouží k pojmenování země, kde se film odehrává 
 - > *country: "USA"*
