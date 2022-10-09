@@ -1,0 +1,11 @@
+movies:
+- id: 1
+  name: No Time To Die
+  genre: Thriller
+  year: 2021
+  country: Italy
+- id: 2
+  name: Spectre
+  genre: Action
+  year: 2015
+  country: Austria
